@@ -1,0 +1,8 @@
+alignments/
+data/
+evaluation/
+local/
+steps/
+trained-ams/
+trained-lms/
+utils/
